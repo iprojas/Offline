@@ -158,6 +158,7 @@ a:focus {
 	height: 1.6rem;
 	margin: 0 auto;
 	fill: currentColor;
+	opacity: 0;
 }
 
 .toggle__icon--off {
